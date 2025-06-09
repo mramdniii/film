@@ -1,4 +1,4 @@
 # Pencarian Film Beserta Detailnya
 
-Website ini bisa digunakan untuk mencari film dan detail dari film tersbebut
+Website ini bisa digunakan untuk mencari film dan detail dari film tersebut
 
